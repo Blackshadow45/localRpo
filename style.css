@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: coral;
+    text-shadow: none;
+    font-style: italic;
+}
+
+*{
+    background-color: bisque;
+}
